@@ -1,5 +1,5 @@
 a:hover{
-    color: #fc8c83;
+    color: #fc8c03;
 }
 
 a:visited {
@@ -8,5 +8,13 @@ a:visited {
 
 body {
     background-color: #000000;
+}
+
+p{
     background-image: url("../images/pumpkin.png");
+
+}
+
+.second {
+    border: 2px solid #fc8c03;
 }

@@ -1,0 +1,15 @@
+a:hover{
+    color: hsl(131, 98%, 50%);
+}
+
+body {
+    background-image: url("../images/otto.png");
+
+}
+
+p {
+    background-color: blue;
+    border: 2px solid #ff0000;
+    margin: 20px;
+    padding: 10px;
+}

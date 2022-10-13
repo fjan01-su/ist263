@@ -8,22 +8,45 @@ a:visited {
 
 body {
     background-color: #eda1d6;
+
 }
 
 p{
     background-color: #64b1f5;
+    padding: 10px;
+    margin: 20px ;
 
 }
 
 h1{
-    color: #ffffff
+    color: #ffffff;
 }
 
 h2{
-    color: #000000
+    color: #000000;
+}
+
+nav {
+    background-color: #ffffff;
+}
+
+nav a{
+    color: #4ab545;
+}
+
+p a{
+    color: #ffffff;
+}
+
+nav a:hover {
+    background-color: #f5f116;
 }
 
 nav{
-    color: #ffffff
+    padding:10px
+}  
+
+nav{
+    margin-bottom: 30px;
 }
 

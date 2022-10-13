@@ -1,0 +1,11 @@
+a:hover{
+    color: #fc8c03;
+}
+
+a:visited {
+    color:  #9d83fc
+}
+
+body {
+    background-color: hsl(0, 2%, 37%);
+}

@@ -60,12 +60,15 @@ nav{
     padding: 5px;
     margin: 10px;
     background-color: #c594e3;
-    
-   }
+    padding-bottom:30px;
+    border-radius:1em;
+}
+
 
 .addyemail{
     flex: 2px;
-    
+    padding: 5px;
+    margin: 10px;
    }
 
 .row2 div {

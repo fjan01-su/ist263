@@ -54,3 +54,22 @@ nav{
 .quote{
     float: right;
 }
+
+.row1, .row2{ 
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+    background-color: #c594e3;
+    
+   }
+
+.addyemail{
+    flex: 2px;
+    
+   }
+
+.row2 div {
+    flex: 1;
+   }
+
+.addyemail {margin: 10px;}

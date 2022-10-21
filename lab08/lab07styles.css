@@ -65,14 +65,42 @@ nav{
 }
 
 
-.addyemail{
-    flex: 2px;
+.address{
+    display: flex;
+    margin: 10px;
+}
+
+.email{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    background-color: #c594e3;
+    padding-bottom:30px;
+    border-radius:1em;
+}
+
+.map{   
+    display: flex;
     padding: 5px;
     margin: 10px;
-   }
+    background-color: #c594e3;
+    padding-bottom:30px;
+    border-radius:1em;
+}
 
-.row2 div {
-    flex: 1;
-   }
+.form{
+    padding: 5px;
+    margin: 10px;
+    background-color: #c594e3;
+    padding-bottom:30px;
+    border-radius:1em;
+}
 
-.addyemail {margin: 10px;}
+.addyemail{
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+    background-color: #c594e3;
+    padding-bottom:30px;
+    border-radius:1em;
+}
